@@ -68,11 +68,12 @@
 ## 🔗 Coding Profiles
 - 💻 LeetCode: https://leetcode.com/u/Ko_mal123/
 - 🧠 HackerRank: https://www.hackerrank.com/profile/K12457857
+---
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ko_mal123&theme=tokyonight)
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
 
 ---
 
