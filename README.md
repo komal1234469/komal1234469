@@ -71,7 +71,7 @@
 ---
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ko_mal123&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ko_mal123&theme=tokyonight&hide_border=true)
 ---
 
 
@@ -79,12 +79,10 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-mal123&layout=compact&theme=tokyonight)
-
 ---
-## 🔥 GitHub Streak
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko_mal123&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ko-mal123&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko_mal123&layout=compact&theme=tokyonight)
 ---
 ## 🧠 LeetCode
 
