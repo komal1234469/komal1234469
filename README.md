@@ -76,9 +76,17 @@
 
 ---
 
-## 📈 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko-mal123&layout=compact&theme=tokyonight)
 
 ---
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ko-mal123&theme=tokyonight)
+---
+## 🧠 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ko_mal123)
+---
 ⭐ **Always learning and improving coding skills.**
