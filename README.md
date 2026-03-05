@@ -78,14 +78,14 @@
 ---
 
 ## 💻 Most Used Languages
-
+-Hindi
+-English
 ---
 ![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko_mal123&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko_mal123&layout=compact&theme=tokyonight)
 ---
-## 🧠 LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ko_mal123)
+## GitHub Stats
+![Komal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ko_mal123&show_icons=true&theme=tokyonight)
 ---
 ⭐ **Always learning and improving coding skills.**
