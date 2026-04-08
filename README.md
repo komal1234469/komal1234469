@@ -29,6 +29,7 @@
 ### Database & Libraries
 - SQL (Basics)
 - NumPy
+- pandas
 
 ### Tools
 - Power BI Desktop (Learning)
@@ -47,7 +48,7 @@
 ---
 
 ## 🏅 Achievements
-- Solved **100+ problems on LeetCode**
+- Solved **200+ problems on LeetCode**
 - **3⭐ Coder on HackerRank**
 - HackerRank Problem Solving (Basic)
 - **97 Percentile – Naukri Campus Young Turks 2024**
