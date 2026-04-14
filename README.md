@@ -25,11 +25,14 @@
 ### Core Concepts
 - Data Structures & Algorithms
 - Object-Oriented Programming (OOPs)
+- Database management system
 
 ### Database & Libraries
 - SQL (Basics)
 - NumPy
 - pandas
+- -matplotlib
+- nltk
 
 ### Tools
 - Power BI Desktop (Learning)
@@ -48,11 +51,13 @@
 ---
 
 ## 🏅 Achievements
-- Solved **200+ problems on LeetCode**
+- Solved **250+ problems on LeetCode**
+- Second position in college hackathon 2026
 - **3⭐ Coder on HackerRank**
 - HackerRank Problem Solving (Basic)
 - **97 Percentile – Naukri Campus Young Turks 2024**
 - AINCAT 2025 – Participation
+  
 
 ---
 
