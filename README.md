@@ -31,7 +31,7 @@
 - SQL (Basics)
 - NumPy
 - pandas
-- -matplotlib
+- matplotlib
 - nltk
 
 ### Tools
