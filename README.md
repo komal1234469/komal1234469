@@ -51,7 +51,7 @@
 ---
 
 ## 🏅 Achievements
-- Solved **250+ problems on LeetCode**
+- Solved **280+ problems on LeetCode**
 - Second position in college hackathon 2026
 - **3⭐ Coder on HackerRank**
 - HackerRank Problem Solving (Basic)
