@@ -38,6 +38,19 @@
 - Power BI Desktop (Learning)
 
 ---
+### Projects
+Fake News Detection System — Python, NLP, Machine Learning, Scikit-learn, Pandas
+• Developed a machine learning-based fake news detection system to classify news articles as real or fake.
+• Applied text preprocessing, tokenization, TF-IDF vectorization, and supervised learning techniques to improve classification
+accuracy.
+• Built the project to support misinformation detection and content verification.
+YouTube Video Summarizer — Ongoing — Python, NLP, API
+• Developing an AI-based system to automatically summarize YouTube videos using NLP.
+• Integrated APIs to extract video transcripts and generate concise summaries.
+• Improving accuracy through text preprocessing and summarization techniques.
+Real-Time Stock Portfolio Tracker — Python, yfinance API
+• Built a real-time stock portfolio tracker using Python and yfinance API.
+• Enabled live stock price tracking and portfolio performance monitoring
 
 ## 🏆 Certifications
 - Oracle Certified AI Foundation Associate
@@ -51,7 +64,7 @@
 ---
 
 ## 🏅 Achievements
-- Solved **280+ problems on LeetCode**
+- Solved **300+ problems on LeetCode**
 - Second position in college hackathon 2026
 - **3⭐ Coder on HackerRank**
 - HackerRank Problem Solving (Basic)
@@ -62,6 +75,7 @@
 ---
 
 ## 🚀 Activities & Participation
+- 2nd Position in college level Hackathon conducted in Unstop platform 2026
 - Smart India Hackathon 2025 – Participant
 - Road Safety Hackathon 2025 (NHAI) – Participant
 - Unstop Talent Park 2025 – Participant
